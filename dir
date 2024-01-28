@@ -1,0 +1,18 @@
+coder@e9561ed0a4bd:~/project$ #mkdirlab
+coder@e9561ed0a4bd:~/project$ #cd lab
+coder@e9561ed0a4bd:~/project$ #touch file1.txt
+coder@e9561ed0a4bd:~/project$ #mkdir dir1
+coder@e9561ed0a4bd:~/project$ #mv file1.txt dir1/
+coder@e9561ed0a4bd:~/project$ #touch file2.txt
+coder@e9561ed0a4bd:~/project$ #mkdir -p dir2/dir3
+coder@e9561ed0a4bd:~/project$ #mv file2.txt dir2/dir3/
+coder@e9561ed0a4bd:~/project$ # cd dir2
+coder@e9561ed0a4bd:~/project$ #touch file3.txt
+coder@e9561ed0a4bd:~/project$ # mv file3.txt ../
+coder@e9561ed0a4bd:~/project$ #cd ..
+coder@e9561ed0a4bd:~/project$ #cd dir1 
+coder@e9561ed0a4bd:~/project$ #ls -l
+coder@e9561ed0a4bd:~/project$ #cd ../dir2
+coder@e9561ed0a4bd:~/project$ #ls -l 
+coder@e9561ed0a4bd:~/project$ #cd dir3
+coder@e9561ed0a4bd:~/project$ #ls -l
